@@ -3,3 +3,5 @@
 	name = Luska713
 [core]
 	pager = cat
+[credential]
+	helper = store
