@@ -1,0 +1,31 @@
+# Caches e temporários
+    .cache/
+    .npm/
+    .tmux/plugins/
+    .zcompdump-*
+    .zsh_history
+    .bash_history
+    .python_history
+    .lesshst
+    .wget-hsts
+
+# Informações sensíveis
+    .gnupg/
+
+# Logs e arquivos de sessão
+    .ICEauthority
+    .Xauthority
+    .xsession*
+    *.log
+
+# Instalações de frameworks
+    .nvm/
+    .oh-my-zsh/
+
+# Backups e outros gerados
+    .shell.pre-oh-my-zsh
+    .zshrc.pre-oh-my-zsh
+    .sudo_as_admin_successful
+
+# Venvs de projetos
+    .venv/
