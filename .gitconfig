@@ -1,7 +1,13 @@
+# Arquivo de configuração do git
+# Adicione o seu próprio e-mail e usuário
 [user]
 	email = luanmarcelino713@gmail.com
 	name = Luska713
+
+# Leitor de arquivos padrão
 [core]
 	pager = cat
+
+# Armazena a credencial para não precisar inserir toda vez que for realizar o push
 [credential]
 	helper = store
